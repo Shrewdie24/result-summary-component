@@ -207,13 +207,3 @@ button {
 
     }
 }
-.attribution {
-    font-size: 11px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
